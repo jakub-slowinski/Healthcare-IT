@@ -7,5 +7,31 @@ Sytuacja polityczna i gospodarcza kraju niewątpliwie wpływa na rozwój informa
 Wpływ epidemii na rozwój branży IT jest olbrzymi. Jesteśmy właśnie świadkami tych przemian. Coraz częściej mówi się o całkowitej cyfryzacji szpitali i podmiotów leczniczych. W takich sytuacjach widoczna jest potrzeba zarządzania podmiotami leczniczymi jak i kontrolowania stanów pacjenta na odległość.
 Aktualnie IT w medycynie odgrywa rolę bardzo symboliczną. Programiści są wykorzystywani tylko wtedy kiedy jest potrzeba, a utrzymanie opracowanego rozwiązania spada na barki osób niebiorących udziału w tworzeniu produktu. Spowodowane jest to ogromną dziurą technologiczną w tym obszarze. Większość nakładów finansowych idzie w kierunku nowych leków. Nowe pomysły związane z IT są najczęściej start-upami, których przejście przez świat konsorcjów jest praktycznie niemożliwy. Do połowy 2020 roku można wymienić 3 firmy mające znaczy udział w IT HealthCare (GE, Siemens, …). 
 Dodatkowo warto zauważyć, że praca z danymi medycznymi nie jest prosta. Pracując z systemem informatycznym który przetwarza dane pacjentów mamy do czynienia z danymi wrażliwymi. Wobec czego istnieje wiele ustaw wyznaczających granice.
+W związku z ostatnimi problemami jakie pojawiły się na świecie, wydaje się że cyfryzacja służby zdrowia i podmiotów medycznych będzie coraz szybsza. 
+Jeżeli popatrzymy na startupy (tabelka poniżej)
+•	Tempus – spersonalizowana medycyna (data, database – illness, curing), machine lerning, 
+Flatiron Health -  healthcare technology and services company focused on accelerating cancer research and improving patient care.
+VillageMD - the VillageMD model enables physicians to deliver excellent clinical results through a specialized care model that optimizes workflow and patient experience (.https://www.villagemd.com/)
+Collective Health - Collective Health is the first integrated solution that allows self-funded employers to administer plans, control costs, and take care of their people—all in one place (https://collectivehealth.com/)
+Rally Health - Rally® guides you through every step of your health care journey, helping you understand benefits, find the right care, and meet your individual goals.( https://www.rallyhealth.com)
+Verge Genomics - “We started Verge with the vision of building a new type of therapeutics company that takes a patient data-driven approach to unlock a whole spectrum of therapies that have escaped traditional drug discovery, beginning with diseases where patients need solutions the most: neurodegenerative disease." (https://www.vergegenomics.com/)
 
+Doximity - The professional medical network for physicians
+Doximity is the largest community of healthcare professionals in the country - with over 70% of U.S. doctors and 45% of all NPs and physician assistants as verified members.- https://www.doximity.com/
+
+Polskie startupy
+DocPlanner - Twórcą pomysłu jest Mariusz Gralewski. DocPlanneroferuje lekarzom i placówkom medycznym oprogramowanie, które ułatwia zorganizowanie optymalnego przepływu pacjentów i ograniczenia odwoływanych wizyt. Pacjentom daje możliwość poznania opinii o konkretnych lekarzach oraz zarezerwowania wizyty przez interne
+
+Infermedica - AI at the service of health
+Infermedica adeptly interweaves medical and technical expertise. Our multi-disciplinary team creates AI-powered healthcare solutions that help doctors deliver efficient, safe, and reliable care to their patients https://infermedica.com.
+
+StethoMe - StethoMe® to pierwszy system wykrywający nieprawidłowości w układzie oddechowym. StethoMe® opiera się na medycznych algorytmach AI (CE 2274) współpracujących z bezprzewodowym stetoskopem oraz dedykowaną aplikacją.
+Dzięki wykorzystaniu unikalnych technologii zapewniających kontrolę jakości badania, StethoMe® może być używane przez pacjentów w warunkach domowych.
+StethoMe® jest przeznaczone do zastosowań telemedycznych, umożliwiając integrację m.in. z HIS, EDM czy systemami telemedycznymi. (https://stethome.com/pl)
+
+Cancer Center - supporting cancer diagnosis by AI (machine and deep learning) https://cancercenter.ai/
+
+
+Intelliseq - software as a service platform for NGS data analysis requiring no upfront cost. IntelliseqFlow takes your WGS or WES samples from raw data to automatic and complete report with clinical insights.
+https://intelliseq.com
 
