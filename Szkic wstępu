@@ -5,7 +5,7 @@ Rynek pracy się ciągle zmienia sytuacja na świecie ma na niego wpływ. Jedną
 Zmiany klimatyczne są pewne i nie da się przejść wokół nich obojętnie. Co do ich przyczyny można mieć różne zdanie, ale skutki są odczuwalne przez wszystkich. Ilość produkowanego plastiku czy ilość wycinanych drzew się nie zmniejsza. Świat nie jest również w stanie zutylizować produkowanej ilości odpadów syntetycznych. Dodatkowo kończące się pokłady złóż energii, nakierowują rozwój na poszukiwanie nowych. 
 Sytuacja polityczna i gospodarcza kraju niewątpliwie wpływa na rozwój informatyczny w kraju. Toczące się wojny czy zapaść gospodarcza może być zarówno hamulcem jak i motorem nowych rozwiązań technologicznych. Te czynnik spowoduje na pewno rozwój IT w kierunku społecznym oraz propagandowym (wybory rządowe).
 Wpływ epidemii na rozwój branży IT jest olbrzymi. Jesteśmy właśnie świadkami tych przemian. Coraz częściej mówi się o całkowitej cyfryzacji szpitali i podmiotów leczniczych. W takich sytuacjach widoczna jest potrzeba zarządzania podmiotami leczniczymi jak i kontrolowania stanów pacjenta na odległość.
-Aktualnie IT w medycynie odgrywa rolę bardzo symboliczną. Programiści są wykorzystywani tylko wtedy kiedy jest potrzeba, a utrzymanie opracowanego rozwiązania spada na barki osób niebiorących udziału w tworzeniu produktu. Spowodowane jest to ogromną dziurą technologiczną w tym obszarze. Większość nakładów finansowych idzie w kierunku nowych leków. Nowe pomysły związane z IT są najczęściej start-upami, których przejście przez świat konsorcjów jest praktycznie niemożliwy. Do połowy 2020 roku można wymienić 3 firmy mające znaczy udział w IT HealthCare (GE, Siemens, …). 
+Aktualnie IT w medycynie odgrywa rolę bardzo symboliczną. Programiści są wykorzystywani tylko wtedy kiedy jest potrzeba, a utrzymanie opracowanego rozwiązania spada na barki osób niebiorących udziału w tworzeniu produktu. Spowodowane jest to ogromną dziurą technologiczną w tym obszarze. Większość nakładów finansowych idzie w kierunku nowych leków. Nowe pomysły związane z IT są najczęściej start-upami, których przejście przez świat konsorcjów jest praktycznie niemożliwy. Do połowy 2020 roku można wymienić 3 firmy mające znaczy udział w IT HealthCare (GE, Siemens, Philips). 
 Dodatkowo warto zauważyć, że praca z danymi medycznymi nie jest prosta. Pracując z systemem informatycznym który przetwarza dane pacjentów mamy do czynienia z danymi wrażliwymi. Wobec czego istnieje wiele ustaw wyznaczających granice.
 W związku z ostatnimi problemami jakie pojawiły się na świecie, wydaje się że cyfryzacja służby zdrowia i podmiotów medycznych będzie coraz szybsza. 
 Jeżeli popatrzymy na startupy (tabelka poniżej)
@@ -34,4 +34,53 @@ Cancer Center - supporting cancer diagnosis by AI (machine and deep learning) ht
 
 Intelliseq - software as a service platform for NGS data analysis requiring no upfront cost. IntelliseqFlow takes your WGS or WES samples from raw data to automatic and complete report with clinical insights.
 https://intelliseq.com
+
+Powyższe startupy jednoznacznie wskazują kierunek rozwoju IT heathcare. Będzie on nakierowany, bardzo mocno na telemedycyny, tele diagnozę, ale jednocześnie będzie się to wiąząło z rozwojem narzędzie umożliwiających takie podejście. Dodatkowo konieczne będzie jednoczesne 
+Opracowanie nowych norm, które będzie trzeba wypenić. O to jedne z nich.
+ISO TC 215 consists of several Working Groups (WG), each dealing with an aspect of Electronic Health Records (EHR).
+•	CAG 1: Executive council, harmonization and operations
+•	WG 1: Data structure
+•	WG 2: Messaging and communications
+•	WG 3: Health Concept Representation
+•	WG 4: Privacy and Security
+•	WG 5: Health Cards >>Transitioned to a Task Force on Health Cards.
+•	WG 6: Pharmacy and medicines business
+•	WG 7: Devices
+•	WG 8: Business requirements for Electronic Health Records
+•	WG 9: SDO Harmonization
+Task Forces: --e-Business for Healthcare Transactions—Multidisciplinary for Healthcare Clinicians—Harmonized Joint Work Group for Devices—Traditional Medicine (Currently restricted to Far Eastern Traditional Medicine) --Health Cards—Patient Safety and Quality
+
+Powyższe informacje sugerują, że w zakresie HealthCare na pewno możemy spodziewać się rozwoju, związanego z diagnostyką na odległość, badań na odległość (za pomocą urządzeń przenośnych/mobilnych) czy operacji wykonywanych przez roboty. Skoro pomiary będą mogły byż na odległość to należy się również spodziewać szpitali z salami do pomiarów funkcji życiowych pacjenta – bezkontaktowych. Podejmowanie decyzji – diagnoz z wykorzystaniem maszyn uczących się, gromadzenie danych medycznych i dostępem do nich osób uprawnionych. 
+
+Wszystkie te powyżej wymienione informacje sugerują że w najbliższej przeszłości należy się spodziewać rozwoju takich stanowisk pracy jak:
+Programista:
+	 Jezyki mikroporcesorowe
+	Chmur obliczeniowych (AWS,Azure)
+	Aplikacji opartych na analizie dużej ilości informacji (aplikacje do analizy danych genetycznych)
+	Aplikacje interentowe
+	security
+	Baz danych zarządzenia bazą danych, dostęp do niej, aktualizacja danych.
+DEvops – osoba czuwająca nad połaczeniem tego wsyztskicgo
+Testerzy
+	penaltyTesters
+	software Testers
+	medical devices testers
+Analitycy danych:
+	Data Scientist 
+	Analitycy danych medycznych
+Prawodopobnie stanowiska te będą ukierunkowane na pracę z danymi medycznymi ze względu na normy jakie muszą spełniać. W US powstają pierwsze cefrtyfikacje dla osób zajmujących się IT HealthCare takie tak:
+AMIA Health Informatics Certification (AHIC) | AMIA
+
+Job board search results (in alphabetical order, by certification)
+Certification	SimplyHired 
+ Indeed 
+ LinkedIn Jobs 
+ LinkUp 
+Total
+CAHIMS/CPHIMS (HIMSS)	42	48	93	35	218
+CHTS (AHIMA)	21	23	44	142	230
+HCISSP (ISC)²	52	59	100	28	239
+RHIA (AHIMA)*	1,792	2,258	3,049	1,106	8,205
+RHIT (AHIMA)	2,092	2,633	3,567	1,255	9,547
+
 
