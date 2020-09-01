@@ -9,7 +9,7 @@ Aktualnie IT w medycynie odgrywa rolę bardzo symboliczną. Programiści są wyk
 Dodatkowo warto zauważyć, że praca z danymi medycznymi nie jest prosta. Pracując z systemem informatycznym który przetwarza dane pacjentów mamy do czynienia z danymi wrażliwymi. Wobec czego istnieje wiele ustaw wyznaczających granice.
 W związku z ostatnimi problemami jakie pojawiły się na świecie, wydaje się że cyfryzacja służby zdrowia i podmiotów medycznych będzie coraz szybsza. 
 Jeżeli popatrzymy na startupy (tabelka poniżej)
-•	Tempus – spersonalizowana medycyna (data, database – illness, curing), machine lerning, 
+Tempus – spersonalizowana medycyna (data, database – illness, curing), machine lerning, 
 Flatiron Health -  healthcare technology and services company focused on accelerating cancer research and improving patient care.
 VillageMD - the VillageMD model enables physicians to deliver excellent clinical results through a specialized care model that optimizes workflow and patient experience (.https://www.villagemd.com/)
 Collective Health - Collective Health is the first integrated solution that allows self-funded employers to administer plans, control costs, and take care of their people—all in one place (https://collectivehealth.com/)
@@ -38,16 +38,16 @@ https://intelliseq.com
 Powyższe startupy jednoznacznie wskazują kierunek rozwoju IT heathcare. Będzie on nakierowany, bardzo mocno na telemedycyny, tele diagnozę, ale jednocześnie będzie się to wiąząło z rozwojem narzędzie umożliwiających takie podejście. Dodatkowo konieczne będzie jednoczesne 
 Opracowanie nowych norm, które będzie trzeba wypenić. O to jedne z nich.
 ISO TC 215 consists of several Working Groups (WG), each dealing with an aspect of Electronic Health Records (EHR).
-•	CAG 1: Executive council, harmonization and operations
-•	WG 1: Data structure
-•	WG 2: Messaging and communications
-•	WG 3: Health Concept Representation
-•	WG 4: Privacy and Security
-•	WG 5: Health Cards >>Transitioned to a Task Force on Health Cards.
-•	WG 6: Pharmacy and medicines business
-•	WG 7: Devices
-•	WG 8: Business requirements for Electronic Health Records
-•	WG 9: SDO Harmonization
+CAG 1: Executive council, harmonization and operations
+WG 1: Data structure
+WG 2: Messaging and communications
+WG 3: Health Concept Representation
+WG 4: Privacy and Security
+WG 5: Health Cards >>Transitioned to a Task Force on Health Cards.
+WG 6: Pharmacy and medicines business
+WG 7: Devices
+WG 8: Business requirements for Electronic Health Records
+WG 9: SDO Harmonization
 Task Forces: --e-Business for Healthcare Transactions—Multidisciplinary for Healthcare Clinicians—Harmonized Joint Work Group for Devices—Traditional Medicine (Currently restricted to Far Eastern Traditional Medicine) --Health Cards—Patient Safety and Quality
 
 Powyższe informacje sugerują, że w zakresie HealthCare na pewno możemy spodziewać się rozwoju, związanego z diagnostyką na odległość, badań na odległość (za pomocą urządzeń przenośnych/mobilnych) czy operacji wykonywanych przez roboty. Skoro pomiary będą mogły byż na odległość to należy się również spodziewać szpitali z salami do pomiarów funkcji życiowych pacjenta – bezkontaktowych. Podejmowanie decyzji – diagnoz z wykorzystaniem maszyn uczących się, gromadzenie danych medycznych i dostępem do nich osób uprawnionych. 
@@ -82,5 +82,46 @@ CHTS (AHIMA)	21	23	44	142	230
 HCISSP (ISC)²	52	59	100	28	239
 RHIA (AHIMA)*	1,792	2,258	3,049	1,106	8,205
 RHIT (AHIMA)	2,092	2,633	3,567	1,255	9,547
+
+
+
+High costs of research and development along with stringent regulations and increasing user demands necessitate a sharp focus on software quality within the healthcare industry. Organizations need to create customized and modern testing strategy based on emerging testing trends. All these trends may not pertain equally to each healthcare organization but will differ based on the nature and usage of healthcare solutions as well as according to the specialized testing needs of specific healthcare providers.
+What are the benefits of healthcare apps?
+– Healthcare apps help the patients to book their doctor appointments easily and to get important healthcare tips
+– It is the quickest way to view medical test reports, to purchase medicines online, and to find an expert specialist
+– The chat facility provided by the healthcare apps is simplifying the treatment process, the doctors can chat and treat their patients in chats
+– The Electronic Health Records or EHR helps to understand the patient’s history of diseases, etc.
+– The feature of reminding medicines to the patient is one of the best benefits of healthcare apps. Also, this advanced feature provides a confirmation to the doctors that the patient has not ignored and started the treatment
+Why testing is essential for healthcare apps?
+To verify the integration with other apps:
+Healthcare is one of the biggest sectors providing a number of services for the patients. A single healthcare app may not be able to fulfill every need which a patient aspires for. And, this may make the patient plan for integrating with the other apps to fulfill the needs. Hence, the app should be tested to verify whether it is compatible to integrate with other apps or not.
+To monitor the user-interface:
+Healthcare is not similar to regular apps. Since the app is built for their patients, the app should be regularly monitored for its user-interface. Also, medical apps receive more data and may be used on a regular basis by their patients. Hence, the app should be tested to check if it is user-centric, patient-friendly, and providing a comfortable way to interact.
+To verify privacy and security:
+While planning to design an app, it is essential to focus on the privacy and security of the patient’s information. It should abide and comply with all the privacy standards to protect the patient’s medical record and other healthcare provider’s information. Also, the testing measures should be practiced to secure the app with data encryption and firewalls.
+To check the app usability:
+Before planning to launch the app to the real world, it is crucial to test the app usability. The app has to be user-friendly and should be able to provide a clear idea of its functionality to the user. If the app fails to receive user-acceptance, then, this may decrease the scope of the app’s future. Hence, it is necessary to practice usability testing before planning for production.
+To check the app compatibility:
+Users can use the healthcare app through any device and any platform. And, if the app fails to provide the same performance across the devices and platforms, then this will be the biggest drawback resulting dissatisfaction among the users. Hence, performance and compatibility testing should be performed across the devices and different platforms such as windows, mac, android, etc.
+To check the app performance:
+The performance and functionality of the app are important factors to drive the scope of the app. The app has to function similarly across any platform and device, and also when the app is experiencing more number of users. If the app fails on performance and load issues, resulting unavailability for millions of patients may inbuilt a negative impact and drop off many of the users. Hence, load testing should be practiced to verify the app performance and functionality in all scenarios.
+Emerging QA and Software Testing Trends in Healthcare Applications
+High Priority to Security Testing
+The cutting-edge healthcare solutions help physicians and healthcare providers to access historic health data of patients, observe their conditions, and offer treatment remotely and rapidly. Hence, it becomes important to ensure utmost security and privacy of the data that is accessed by the application. To achieve utmost security, extensive security testing has to be the key priority in the testing strategy for safeguarding the sensitive healthcare data of patients.
+Big Data Management
+Healthcare applications these days gather and transmit a huge amount of healthcare data from one source to another. Hence, the applications are specifically designed with explicit features to enable data collection, storage, access, and transfer. While testing next-generation healthcare applications, testers must keep in mind the complete patient data management process across various technological platforms. They must execute all obligatory tests to ensure that the patient data is managed efficiently, and without negotiating on security and privacy.
+Implementation of Agile Testing Methodologies
+The ever-rising need to get the applications and products faster to market necessitate the healthcare IT teams to adopt the Agile methodology. By the use of agile methodology, teams can escape the lengthy product delivery cycle and ensure quicker delivery in the end.
+
+Emphasis on Mobile and Compatibility Testing
+A huge percentage of users, including patients and healthcare professionals, these days access healthcare solutions on their mobile devices. There is an increase in the number of organizations enabling the patients to access healthcare on their smartphones, tablets, and other devices. Therefore, the healthcare solutions need to run efficiently and correctly on these devices, across various operating systems, browsers, etc. The testing strategy should include evaluating all aspects of the application by using various mobile devices, network, and operating systems.
+Deployment of Skilled Testers
+With several governmental mandates and user privacy issues taking over, healthcare application testing requires a lot of experience and skill. It is important to ensure the testers have correct domain knowledge and skills to evaluate the advanced healthcare applications and solutions efficiently. The testers working on healthcare projects should have skills and understanding in HL7 guidelines, and the Healthcare domain to identify critical workflows for testing effectively.
+
+HL7 Certification
+HL7 offers certification and proficiency testing to assess the knowledge and proficiency of its most frequently used health information technology (HIT) standards. Download your free path to certification guide by filling out the form on the right side
+
+ICPMSB Certified Professional for Medical Software - Foundation Level, http://www.isqi.us/course/33/icpmsb-certified-professional-for-medical-software-foundation-level
+
 
 
