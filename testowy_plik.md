@@ -1,2 +1,0 @@
-Testowy qgit plik
-kjbhl
