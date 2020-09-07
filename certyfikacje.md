@@ -23,6 +23,8 @@
   - Certified Professional in Operating Rules Administration (CPORA) - automatyzacja procesów biznesowych z zasadami działania, w tym kwalifikowalności i statusu roszczenia, elektronicznego doradztwa w zakresie transferu środków i przekazów elektronicznych
 8. Certified Associate in Healthcare Information & Management Systems (CAHIMS)
 
+W obszarze healthcare IT równie istotne są także certyfikaty związane z bezpieczeństwem danych, które tworzy się i nimi zarządza.
+
 ## Organizacje certyfikujące
 
 1. [AHIMA](https://en.wikipedia.org/wiki/American_Health_Information_Management_Association)
@@ -30,3 +32,9 @@
 3. [PMI](https://en.wikipedia.org/wiki/Project_Management_Institute)
 4. [Health IT Certification](http://www.healthitcertification.com/overview.html)
 5. [HealthIT.gov](https://www.healthit.gov/topic/certification-ehrs/certification-health-it) - oficjalna strona The Office of the National Coordinator for Health Information Technology (ONC)
+
+## Info z różnych stron ogólnie o certyfikatach
+
+1. [W 2018 r. 89 proc. pracowników IT posiadało przynajmniej jeden certyfikat (wobec 86 proc. w 2017 r.). W Ameryce Północnej wskaźnik ten wyniósł 85 proc., a w obszarze EMEA – 92 proc. Zarabiali średnio o 9 proc. więcej niż osoby bez certyfikatu. W Ameryce Północnej różnica ta wyniosła aż 22 proc. – według IT Skills and Salary Report 2018 firmy Global Knowledge.](https://crn.pl/aktualnosci/ktore-certyfikaty-it-oplaca-sie-posiadac/)
+2. [The 3 Es of computing in healthcare](https://www.citrix.com/blogs/2019/01/31/the-3-es-of-computing-in-healthcare/)
+3.  
