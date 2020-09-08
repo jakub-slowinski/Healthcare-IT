@@ -41,6 +41,6 @@ W obszarze healthcare IT równie istotne są także certyfikaty związane z bezp
 
 ## Prawo
 
-1. [Rozporządzenie Ministra Zdrowia z dnia 6 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania](htps://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000666)
+1. [ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 1) z dnia 29 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000788)
   - dokumentacja ma być prowadzona elektronicznie, ew. jeśli nie można elektronicznie to papierowo ale nie w obu formach jednocześnie
   - dokumentacja musi być odpowiednio zabezpieczona
