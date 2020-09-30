@@ -40,7 +40,7 @@ W obszarze healthcare IT równie istotne są także certyfikaty związane z bezp
 2. [The 3 Es of computing in healthcare](https://www.citrix.com/blogs/2019/01/31/the-3-es-of-computing-in-healthcare/)
 3. [CITRIX - rozwiązania IT w służbie zdrowia](https://www.citrix.com/pl-pl/solutions/healthcare/)
 
-## Prawo
+## Prawo w Polsce
 
 1. [ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 1) z dnia 29 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000788)
   - dokumentacja ma być prowadzona elektronicznie, ew. jeśli nie można elektronicznie to papierowo ale nie w obu formach jednocześnie
@@ -48,4 +48,8 @@ W obszarze healthcare IT równie istotne są także certyfikaty związane z bezp
 
 ## Wynurzenia
 
-Certyfikacja prowadzona w obszarze HealthCare pozwala na ustandaryzowanie całych procedur i pojedynczych operacji w obszarze tworzenia dokumentacji medycznej. Takie podejście umożliwia z kolei działanie systemu opieki medycznej według jednego określonego wzorca z zachowaniem bezpieczeństwa przepływu informacji medycznych jako szczególnie wrażliwych danych. Służba zdrowia danego kraju dąży do zapewnienia dobrostanu zdrowotnego swoim obywatelom. Z jednej strony podejmuje się działania mające na celu przywrócenie zdrowia, z drugiej wciąż na uwadze trzeba mieć ograniczone zasoby i możliwości diagnostyki i leczenia. Standaryzacja poparta uzyskaniem właściwych certyfikatów pozwala na utrzymanie wysokiego poziomu usług i wysokiej sprawności całego systemu. Ewentualne straty jakie wynikają z działań źle zarządzanej służby zdrowia będą mieć bezpośrednie przełożenie na skutki społeczne i ekonomiczne, które ostatecznie dotkną systemu gospodarki. 
+Certyfikacja prowadzona w obszarze HealthCare pozwala na ustandaryzowanie całych procedur i pojedynczych operacji w obszarze tworzenia dokumentacji medycznej. Takie podejście umożliwia z kolei działanie systemu opieki medycznej według jednego określonego wzorca z zachowaniem bezpieczeństwa przepływu informacji medycznych jako szczególnie wrażliwych danych. Służba zdrowia danego kraju dąży do zapewnienia dobrostanu zdrowotnego swoim obywatelom. Z jednej strony podejmuje się działania mające na celu przywrócenie zdrowia, z drugiej wciąż na uwadze trzeba mieć ograniczone zasoby i możliwości diagnostyki i leczenia. Standaryzacja poparta uzyskaniem właściwych certyfikatów pozwala na utrzymanie wysokiego poziomu usług i wysokiej sprawności całego systemu. Ewentualne straty jakie wynikają z działań źle zarządzanej służby zdrowia będą mieć bezpośrednie przełożenie na skutki społeczne i ekonomiczne, które ostatecznie dotkną systemu gospodarki.
+
+## Certyfikacja regionami świata
+### USA
+### Europa
