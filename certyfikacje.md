@@ -39,6 +39,7 @@ W obszarze healthcare IT równie istotne są także certyfikaty związane z bezp
 1. [W 2018 r. 89 proc. pracowników IT posiadało przynajmniej jeden certyfikat (wobec 86 proc. w 2017 r.). W Ameryce Północnej wskaźnik ten wyniósł 85 proc., a w obszarze EMEA – 92 proc. Zarabiali średnio o 9 proc. więcej niż osoby bez certyfikatu. W Ameryce Północnej różnica ta wyniosła aż 22 proc. – według IT Skills and Salary Report 2018 firmy Global Knowledge.](https://crn.pl/aktualnosci/ktore-certyfikaty-it-oplaca-sie-posiadac/)
 2. [The 3 Es of computing in healthcare](https://www.citrix.com/blogs/2019/01/31/the-3-es-of-computing-in-healthcare/)
 3. [CITRIX - rozwiązania IT w służbie zdrowia](https://www.citrix.com/pl-pl/solutions/healthcare/)
+4. [10 Top Healthcare IT Certifications 2019](https://www.healthcare-management-degree.net/best/top-healthcare-it-certifications/)
 
 ## Prawo w Polsce
 
@@ -48,8 +49,16 @@ W obszarze healthcare IT równie istotne są także certyfikaty związane z bezp
 
 ## Wynurzenia
 
-Certyfikacja prowadzona w obszarze HealthCare pozwala na ustandaryzowanie całych procedur i pojedynczych operacji w obszarze tworzenia dokumentacji medycznej. Takie podejście umożliwia z kolei działanie systemu opieki medycznej według jednego określonego wzorca z zachowaniem bezpieczeństwa przepływu informacji medycznych jako szczególnie wrażliwych danych. Służba zdrowia danego kraju dąży do zapewnienia dobrostanu zdrowotnego swoim obywatelom. Z jednej strony podejmuje się działania mające na celu przywrócenie zdrowia, z drugiej wciąż na uwadze trzeba mieć ograniczone zasoby i możliwości diagnostyki i leczenia. Standaryzacja poparta uzyskaniem właściwych certyfikatów pozwala na utrzymanie wysokiego poziomu usług i wysokiej sprawności całego systemu. Ewentualne straty jakie wynikają z działań źle zarządzanej służby zdrowia będą mieć bezpośrednie przełożenie na skutki społeczne i ekonomiczne, które ostatecznie dotkną systemu gospodarki.
+Certyfikacja prowadzona w obszarze HealthCare pozwala na standaryzowanie całych procedur i pojedynczych operacji w obszarze tworzenia dokumentacji medycznej. Takie podejście umożliwia z kolei działanie systemu opieki medycznej według jednego określonego wzorca z zachowaniem bezpieczeństwa przepływu informacji medycznych jako szczególnie wrażliwych danych. Służba zdrowia danego kraju dąży do zapewnienia dobrostanu zdrowotnego swoim obywatelom. Z jednej strony podejmuje się działania mające na celu przywrócenie zdrowia, z drugiej wciąż na uwadze trzeba mieć ograniczone zasoby i możliwości diagnostyki i leczenia. Standaryzacja poparta uzyskaniem właściwych certyfikatów pozwala na utrzymanie wysokiego poziomu usług i wysokiej sprawności całego systemu. Ewentualne straty jakie wynikają z działań źle zarządzanej służby zdrowia będą mieć bezpośrednie przełożenie na skutki społeczne i ekonomiczne, które ostatecznie dotkną systemu gospodarki.
 
 ## Certyfikacja regionami świata
 ### USA
 ### Europa
+
+**Normy ISO** - niestety są płatne i mało tanie (138 CHF(!))
+
+ISO/TR 20514:2005 Health informatics — Electronic health record — Definition, scope and context
+https://www.iso.org/standard/39525.html
+
+ISO/IEC 15408-1:2009 Information technology — Security techniques — Evaluation criteria for IT security — Part 1: Introduction and general model
+https://www.iso.org/standard/50341.html
