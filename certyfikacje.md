@@ -4,18 +4,18 @@
 
 ### Uczelnie
 
-#### USA
+#### USA --> to jest fajna infromacja, ze coś takiego istnieje ale chyba nie oplaca się bardzeij rozwijac
 1. [Rasmussen College](https://www.rasmussen.edu/degrees/health-sciences/blog/healthcare-it-certifications/) - 17.09.2018
 2. [University of Wisconsin Bachelor of Science in Health Information Management and Technology (HIMT)](https://himt.wisconsin.edu/about-himt/epic-certification-and-health-it-certifications/)
 3. [MedCerts](https://www.medcerts.com/certifications/healthcare)
 
-## Certyfikaty
+## Certyfikaty --> to jest centrum :D
 
 1. **Registered Health Information Technician (RHIT)** - certyfikat potwierdzający umiejętność oceny i weryfikacji jakości danych medycznych, kodowania i analizy dokumentacji medycznej
 2. **Certified Professional Coder (CPC®)** - certyfikat potwierdzający umiejętności tworzenia dokumentacji medycznej przy znajomości przepisów medycznych i fiskalnych
 3. **Registered Health Information Administrator (RHIA®)** - zarządzanie informacjami o stanie zdrowia pacjentów i dokumentacją medyczną, zarządzanie ludźmi i jednostkami, osoby te są dobrze zorientowane w wymaganiach medycznych, administracyjnych, etycznych i prawnych związanych ze świadczeniem opieki zdrowotnej i prywatnością pacjentów
 4. **Certified Outpatient Coder (COC®)** - poświadczenie medyczne dla specjalistów zajmujących się kodowaniem medycznym, świadczy o ogólnej biegłości w kodowaniu medycznym, a także o precyzyjnej wiedzy i doświadczeniu w niuansach placówek opieki ambulatoryjnej.
-5. **Epic Certification**
+5. **Epic Certification**. --> to będzie jazda z opisaniem tego
 6. **Project Management Certification (PMP®)** - certyfikat kierownika projektów, nadzór nad zarządzaniem dokumentacją medyczną
 7. **Certified Professional in Electronic Health Records (CPEHR)**
   - Certified Professional in Health Information Technology (CPHIT)- planowanie, wybór, wdrażanie, używanie i zarządzanie aplikacjami technologii informacyjnej zdrowia (HIT) i elektronicznej dokumentacji medycznej (EHR)
@@ -26,7 +26,7 @@
 
 W obszarze healthcare IT równie istotne są także certyfikaty związane z bezpieczeństwem danych, które tworzy się i nimi zarządza.
 
-## Organizacje certyfikujące
+## Organizacje certyfikujące --> czyli na razie tylko Ameryka ...
 
 1. [AHIMA](https://en.wikipedia.org/wiki/American_Health_Information_Management_Association)
 2. [AAPC](https://en.wikipedia.org/wiki/AAPC_(healthcare))
