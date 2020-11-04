@@ -4,7 +4,7 @@
 
 ### Uczelnie
 
-#### USA --> to jest fajna infromacja, ze coś takiego istnieje ale chyba nie oplaca się bardzeij rozwijac
+#### USA --> to jest fajna infromacja, ze coś takiego istnieje ale chyba nie opłaca się bardzeij rozwijac
 1. [Rasmussen College](https://www.rasmussen.edu/degrees/health-sciences/blog/healthcare-it-certifications/) - 17.09.2018
 2. [University of Wisconsin Bachelor of Science in Health Information Management and Technology (HIMT)](https://himt.wisconsin.edu/about-himt/epic-certification-and-health-it-certifications/)
 3. [MedCerts](https://www.medcerts.com/certifications/healthcare)
@@ -12,6 +12,7 @@
 ## Certyfikaty --> to jest centrum :D
 
 1. **Registered Health Information Technician (RHIT)** - certyfikat potwierdzający umiejętność oceny i weryfikacji jakości danych medycznych, kodowania i analizy dokumentacji medycznej
+- technik, którego zadaniem jest obróbka dokumentacji medycznej, jej weryfikacja i zapewnienie właściwej jej jakości a przez to umożliwienie funkcjonowania systemów 
 2. **Certified Professional Coder (CPC®)** - certyfikat potwierdzający umiejętności tworzenia dokumentacji medycznej przy znajomości przepisów medycznych i fiskalnych
 3. **Registered Health Information Administrator (RHIA®)** - zarządzanie informacjami o stanie zdrowia pacjentów i dokumentacją medyczną, zarządzanie ludźmi i jednostkami, osoby te są dobrze zorientowane w wymaganiach medycznych, administracyjnych, etycznych i prawnych związanych ze świadczeniem opieki zdrowotnej i prywatnością pacjentów
 4. **Certified Outpatient Coder (COC®)** - poświadczenie medyczne dla specjalistów zajmujących się kodowaniem medycznym, świadczy o ogólnej biegłości w kodowaniu medycznym, a także o precyzyjnej wiedzy i doświadczeniu w niuansach placówek opieki ambulatoryjnej.
