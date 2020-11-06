@@ -4,7 +4,7 @@
 
 ### Uczelnie
 
-#### USA --> to jest fajna infromacja, ze coś takiego istnieje ale chyba nie opłaca się bardzeij rozwijac
+#### W USA istenieją uczelnie, które kształcą studentów w kierunkt IT HealthCare - osobna gałąź IT
 1. [Rasmussen College](https://www.rasmussen.edu/degrees/health-sciences/blog/healthcare-it-certifications/) - 17.09.2018
 2. [University of Wisconsin Bachelor of Science in Health Information Management and Technology (HIMT)](https://himt.wisconsin.edu/about-himt/epic-certification-and-health-it-certifications/)
 3. [MedCerts](https://www.medcerts.com/certifications/healthcare)
