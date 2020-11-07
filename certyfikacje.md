@@ -2,9 +2,9 @@
 
 ## Linki do stron z certyfikatami
 
-### Uczelnie
+### Uczelnie 
 
-#### W USA istenieją uczelnie, które kształcą studentów w kierunkt IT HealthCare - osobna gałąź IT
+#### USA --> to jest fajna informacja, ze coś takiego istnieje ale chyba nie opłaca się bardziej rozwijać
 1. [Rasmussen College](https://www.rasmussen.edu/degrees/health-sciences/blog/healthcare-it-certifications/) - 17.09.2018
 2. [University of Wisconsin Bachelor of Science in Health Information Management and Technology (HIMT)](https://himt.wisconsin.edu/about-himt/epic-certification-and-health-it-certifications/)
 3. [MedCerts](https://www.medcerts.com/certifications/healthcare)
@@ -12,8 +12,10 @@
 ## Certyfikaty --> to jest centrum :D
 
 1. **Registered Health Information Technician (RHIT)** - certyfikat potwierdzający umiejętność oceny i weryfikacji jakości danych medycznych, kodowania i analizy dokumentacji medycznej
-- technik, którego zadaniem jest obróbka dokumentacji medycznej, jej weryfikacja i zapewnienie właściwej jej jakości a przez to umożliwienie funkcjonowania systemów 
+  - technik, którego zadaniem jest obróbka dokumentacji medycznej, jej weryfikacja i zapewnienie właściwej jej jakości a przez to umożliwienie funkcjonowania systemów, celem jest także kontrola wydatków oraz podniesienie poziomu opieki nad pacjentem
+  - technik specjalizuje się w operowaniu kodami ICD-10 (ICD-10 pozostanie aktualna do 1 stycznia 2022 roku, kiedy to zostanie zastąpiona przez ICD-11)
 2. **Certified Professional Coder (CPC®)** - certyfikat potwierdzający umiejętności tworzenia dokumentacji medycznej przy znajomości przepisów medycznych i fiskalnych
+  - technik CPC ma za zadanie przełożenie dokumentacji medycznej na kody ICD jakich używają nie tylko szpitale ale też firmy ubezpieczeniowe
 3. **Registered Health Information Administrator (RHIA®)** - zarządzanie informacjami o stanie zdrowia pacjentów i dokumentacją medyczną, zarządzanie ludźmi i jednostkami, osoby te są dobrze zorientowane w wymaganiach medycznych, administracyjnych, etycznych i prawnych związanych ze świadczeniem opieki zdrowotnej i prywatnością pacjentów
 4. **Certified Outpatient Coder (COC®)** - poświadczenie medyczne dla specjalistów zajmujących się kodowaniem medycznym, świadczy o ogólnej biegłości w kodowaniu medycznym, a także o precyzyjnej wiedzy i doświadczeniu w niuansach placówek opieki ambulatoryjnej.
 5. **Epic Certification**. --> to będzie jazda z opisaniem tego
@@ -47,6 +49,9 @@ W obszarze healthcare IT równie istotne są także certyfikaty związane z bezp
 1. [ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 1) z dnia 29 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000788)
   - dokumentacja ma być prowadzona elektronicznie, ew. jeśli nie można elektronicznie to papierowo ale nie w obu formach jednocześnie
   - dokumentacja musi być odpowiednio zabezpieczona
+
+## Polska
+[Centrum e-Zdrowia](https://cez.gov.pl/aktualnosci/szczegoly/20-lat-centrum-e-zdrowia/)
 
 ## Wynurzenia
 
