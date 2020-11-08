@@ -12,10 +12,10 @@
 ## Certyfikaty --> to jest centrum :D
 
 1. **Registered Health Information Technician (RHIT)** - certyfikat potwierdzający umiejętność oceny i weryfikacji jakości danych medycznych, kodowania i analizy dokumentacji medycznej
-  - technik, którego zadaniem jest obróbka dokumentacji medycznej, jej weryfikacja i zapewnienie właściwej jej jakości a przez to umożliwienie funkcjonowania systemów, celem jest także kontrola wydatków oraz podniesienie poziomu opieki nad pacjentem
-  - technik specjalizuje się w operowaniu kodami ICD-10 (ICD-10 pozostanie aktualna do 1 stycznia 2022 roku, kiedy to zostanie zastąpiona przez ICD-11)
+    - technik, którego zadaniem jest obróbka dokumentacji medycznej, jej weryfikacja i zapewnienie właściwej jej jakości a przez to umożliwienie funkcjonowania systemów, celem jest także kontrola wydatków oraz podniesienie poziomu opieki nad pacjentem
+    - technik specjalizuje się w operowaniu kodami ICD-10 (ICD-10 pozostanie aktualna do 1 stycznia 2022 roku, kiedy to zostanie zastąpiona przez ICD-11)
 2. **Certified Professional Coder (CPC®)** - certyfikat potwierdzający umiejętności tworzenia dokumentacji medycznej przy znajomości przepisów medycznych i fiskalnych
-  - technik CPC ma za zadanie przełożenie dokumentacji medycznej na kody ICD jakich używają nie tylko szpitale ale też firmy ubezpieczeniowe
+    - technik CPC ma za zadanie przełożenie dokumentacji medycznej na kody ICD jakich używają nie tylko szpitale ale też firmy ubezpieczeniowe
 3. **Registered Health Information Administrator (RHIA®)** - zarządzanie informacjami o stanie zdrowia pacjentów i dokumentacją medyczną, zarządzanie ludźmi i jednostkami, osoby te są dobrze zorientowane w wymaganiach medycznych, administracyjnych, etycznych i prawnych związanych ze świadczeniem opieki zdrowotnej i prywatnością pacjentów
 4. **Certified Outpatient Coder (COC®)** - poświadczenie medyczne dla specjalistów zajmujących się kodowaniem medycznym, świadczy o ogólnej biegłości w kodowaniu medycznym, a także o precyzyjnej wiedzy i doświadczeniu w niuansach placówek opieki ambulatoryjnej.
 5. **Epic Certification**. --> to będzie jazda z opisaniem tego
