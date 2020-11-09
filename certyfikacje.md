@@ -11,21 +11,41 @@
 
 ## Certyfikaty --> to jest centrum :D
 
-1. **Registered Health Information Technician (RHIT)** - certyfikat potwierdzający umiejętność oceny i weryfikacji jakości danych medycznych, kodowania i analizy dokumentacji medycznej
+ 1. **Registered Health Information Technician (RHIT)** - certyfikat potwierdzający umiejętność oceny i weryfikacji jakości danych medycznych, kodowania i analizy dokumentacji medycznej
     - technik, którego zadaniem jest obróbka dokumentacji medycznej, jej weryfikacja i zapewnienie właściwej jej jakości a przez to umożliwienie funkcjonowania systemów, celem jest także kontrola wydatków oraz podniesienie poziomu opieki nad pacjentem
     - technik specjalizuje się w operowaniu kodami ICD-10 (ICD-10 pozostanie aktualna do 1 stycznia 2022 roku, kiedy to zostanie zastąpiona przez ICD-11)
-2. **Certified Professional Coder (CPC®)** - certyfikat potwierdzający umiejętności tworzenia dokumentacji medycznej przy znajomości przepisów medycznych i fiskalnych
+ 2. **Certified Professional Coder (CPC®)** - certyfikat potwierdzający umiejętności tworzenia dokumentacji medycznej przy znajomości przepisów medycznych i fiskalnych
     - technik CPC ma za zadanie przełożenie dokumentacji medycznej na kody ICD jakich używają nie tylko szpitale ale też firmy ubezpieczeniowe
-3. **Registered Health Information Administrator (RHIA®)** - zarządzanie informacjami o stanie zdrowia pacjentów i dokumentacją medyczną, zarządzanie ludźmi i jednostkami, osoby te są dobrze zorientowane w wymaganiach medycznych, administracyjnych, etycznych i prawnych związanych ze świadczeniem opieki zdrowotnej i prywatnością pacjentów
-4. **Certified Outpatient Coder (COC®)** - poświadczenie medyczne dla specjalistów zajmujących się kodowaniem medycznym, świadczy o ogólnej biegłości w kodowaniu medycznym, a także o precyzyjnej wiedzy i doświadczeniu w niuansach placówek opieki ambulatoryjnej.
-5. **Epic Certification**. --> to będzie jazda z opisaniem tego
-6. **Project Management Certification (PMP®)** - certyfikat kierownika projektów, nadzór nad zarządzaniem dokumentacją medyczną
-7. **Certified Professional in Electronic Health Records (CPEHR)**
-  - Certified Professional in Health Information Technology (CPHIT)- planowanie, wybór, wdrażanie, używanie i zarządzanie aplikacjami technologii informacyjnej zdrowia (HIT) i elektronicznej dokumentacji medycznej (EHR)
-  - Certified Professional in Electronic Health Records (CPEHR) - planowanie, wdrażanie, działanie EHR w zakresie zarządzania wiedzą, poprawy jakości, bezpieczeństwa pacjentów i koordynacji opieki
-  - Certified Professional in Health Information Exchange (CPHIE) - planowanie, zarządzanie, architekturę informacji i zarządzanie, osobistą dokumentację zdrowotną, telezdrowia i monitorowanie w domu oraz inną wymianę informacji elektronicznych między organizacje
-  - Certified Professional in Operating Rules Administration (CPORA) - automatyzacja procesów biznesowych z zasadami działania, w tym kwalifikowalności i statusu roszczenia, elektronicznego doradztwa w zakresie transferu środków i przekazów elektronicznych
-8. **Certified Associate in Healthcare Information & Management Systems (CAHIMS)**
+    - certyfikat uznawany za złoty standard w dziedzinie kodowania danych medycznych w ramach gabinetu lekarskiego, jest na tyle uznawany, że nawet na stronie AAPC napisali, że znacznie podnosi to zarobki względem osoby, która takiego certyfikatu nie posiada
+ 3. **Registered Health Information Administrator (RHIA®)** - zarządzanie informacjami o stanie zdrowia pacjentów i dokumentacją medyczną, zarządzanie ludźmi i jednostkami, osoby te są dobrze zorientowane w wymaganiach medycznych, administracyjnych, etycznych i prawnych związanych ze świadczeniem opieki zdrowotnej i prywatnością pacjentów
+ 4. **Certified Outpatient Coder (COC®)** - poświadczenie medyczne dla specjalistów zajmujących się kodowaniem medycznym, świadczy o ogólnej biegłości w kodowaniu medycznym, a także o precyzyjnej wiedzy i doświadczeniu w niuansach placówek opieki ambulatoryjnej.
+    - oprócz COC jest jeszcze CIC (placówki szpitalne)
+ 5. **Epic Certification**. --> to będzie jazda z opisaniem tego
+    - Epic - to nazwa najczęściej używanego oprogramowania EHR (electronic health records) w USA, żeby pracować w tym środowisku potrzeba się certyfikować :)
+    - oprogramowanie posiada moduły i w zależności od miejsca pracy można zdobyć odpowiedni certyfikat:
+        - ASAP: Epic’s emergency room module
+        - Beacon: Epic’s oncology module
+        - Beaker: Epic’s lab tests module
+        - Cadence: Epic’s scheduling module
+        - Cupid: Epic’s cardiology module
+        - Kaleidoscope: Epic’s ophthalmology module
+        - Prelude/ADT: Epic’s patient registration module
+        - Radiant: Epic’s radiology module
+        - Stork: Epic’s obstetrics module
+        - Willow: Epic’s pharmacy module
+    - zdobycie certyfikatu jest możliwe na dwa sposoby: albo pracujesz dla Epic albo pracujesz u podmiotu, który stosuje Epic i nie może odbywać się na zasadzie samodzielnej nauki programu (czyli mają mechanizmy regulacyjne)
+    - kurs odbywa się w siedzibie firmy w Wisconsin i kończy się go testem
+    - kurs jest trudny, kosztuje przeciętnie 5000$, ale jest to cena jaką ponosi pracodawca
+
+ 6. **Project Management Certification (PMP®)** - certyfikat kierownika projektów, nadzór nad zarządzaniem dokumentacją medyczną
+ 7. **Certified Professional in Electronic Health Records (CPEHR)**
+    - Certified Professional in Health Information Technology (CPHIT)- planowanie, wybór, wdrażanie, używanie i zarządzanie aplikacjami technologii informacyjnej zdrowia (HIT) i elektronicznej dokumentacji medycznej (EHR)
+    - Certified Professional in Electronic Health Records (CPEHR) - planowanie, wdrażanie, działanie EHR w zakresie zarządzania wiedzą, poprawy jakości, bezpieczeństwa pacjentów i koordynacji opieki
+    - Certified Professional in Health Information Exchange (CPHIE) - planowanie, zarządzanie, architekturę informacji i zarządzanie, osobistą dokumentację zdrowotną, telezdrowia i monitorowanie w domu oraz inną wymianę informacji elektronicznych między organizacje
+    - Certified Professional in Operating Rules Administration (CPORA) - automatyzacja procesów biznesowych z zasadami działania, w tym kwalifikowalności i statusu roszczenia, elektronicznego doradztwa w zakresie transferu środków i przekazów elektronicznych
+ 8. **Certified Associate in Healthcare Information & Management Systems (CAHIMS)**
+
+[Porównanie certyfikatów z AAPC](https://www.aapc.com/certification/compare/)
 
 W obszarze healthcare IT równie istotne są także certyfikaty związane z bezpieczeństwem danych, które tworzy się i nimi zarządza.
 
@@ -47,8 +67,8 @@ W obszarze healthcare IT równie istotne są także certyfikaty związane z bezp
 ## Prawo w Polsce
 
 1. [ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 1) z dnia 29 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000788)
-  - dokumentacja ma być prowadzona elektronicznie, ew. jeśli nie można elektronicznie to papierowo ale nie w obu formach jednocześnie
-  - dokumentacja musi być odpowiednio zabezpieczona
+ - dokumentacja ma być prowadzona elektronicznie, ew. jeśli nie można elektronicznie to papierowo ale nie w obu formach jednocześnie
+- dokumentacja musi być odpowiednio zabezpieczona
 
 ## Polska
 [Centrum e-Zdrowia](https://cez.gov.pl/aktualnosci/szczegoly/20-lat-centrum-e-zdrowia/)
