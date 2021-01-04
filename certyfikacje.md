@@ -2,7 +2,7 @@
 
 ## Linki do stron z certyfikatami
 
-### Uczelnie 
+### Uczelnie
 
 #### USA --> to jest fajna informacja, ze coś takiego istnieje ale chyba nie opłaca się bardziej rozwijać
 1. [Rasmussen College](https://www.rasmussen.edu/degrees/health-sciences/blog/healthcare-it-certifications/) - 17.09.2018
@@ -76,6 +76,13 @@ W obszarze healthcare IT równie istotne są także certyfikaty związane z bezp
 ## Wynurzenia
 
 Certyfikacja prowadzona w obszarze HealthCare pozwala na standaryzowanie całych procedur i pojedynczych operacji w obszarze tworzenia dokumentacji medycznej. Takie podejście umożliwia z kolei działanie systemu opieki medycznej według jednego określonego wzorca z zachowaniem bezpieczeństwa przepływu informacji medycznych jako szczególnie wrażliwych danych. Służba zdrowia danego kraju dąży do zapewnienia dobrostanu zdrowotnego swoim obywatelom. Z jednej strony podejmuje się działania mające na celu przywrócenie zdrowia, z drugiej wciąż na uwadze trzeba mieć ograniczone zasoby i możliwości diagnostyki i leczenia. Standaryzacja poparta uzyskaniem właściwych certyfikatów pozwala na utrzymanie wysokiego poziomu usług i wysokiej sprawności całego systemu. Ewentualne straty jakie wynikają z działań źle zarządzanej służby zdrowia będą mieć bezpośrednie przełożenie na skutki społeczne i ekonomiczne, które ostatecznie dotkną systemu gospodarki.
+
+[Dlaczego certyfikacje są takie ważne?](https://www.indeed.com/career-advice/career-development/healthcare-certifications)
+Certyfikacja w obszarze HealthCare w szczególny sposób pokazuje, że pracownik posiadający certyfikaty posiada nie tylko wiedzę i doświadczenie, ale także potrafi i ma do tego uprawnienia aby określone operacje przeprowadzić zgodnie z zasadami i zachowaniem właściwej staranności. Jest to o tyle istotne, że obszar w jakim się porusza dotyka kwestii bardzo ważnych i delikatnych jednocześnie. Pacjent jako specyficzny typ klienta posiada określone prawa, z drugiej strony szpitale i inne placówki medyczne poruszają się w obszarze, w którym przepływ informacji i finansów jest kluczowy i rzutuje na ich istnienie. Jest to szczególnie ważne w przypadku placówek, które nie są utrzymywane w ramach państwa, ale funkcjonują jako przedsiębiorstwa, które mając dostęp do ważnych i wrażliwych danych, muszą udowodnić, że będą mogły na nich operować z zachowaniem wszelkich zasad bezpieczeństwa.
+
+Certyfikacja jest potwierdzeniem, że dana osoba posiada aktualną, ugruntowaną wiedzę. Należy zaznaczyć, że obszar HealthCare jest jednocześnie połączeniem wiedzy technicznej z obszaru inżynierii (tworzenie, obróbka i ochrona informacji, zasady cyberbezpieczeństwa, etc.) oraz wiedzy klinicznej (anatomia, fizjologia, terminologia medyczna). Jednocześnie należy wskazać, że obszar ten podlega bardzo dynamicznym zmianom, rozwój medycyny w połączeniu z nowoczesnymi technologiami uległ potężnemu przyspieszeniu stąd zachodzi stała potrzeba rozszerzania i aktualizowania swojej wiedzy.
+
+Certyfikaty w HealthCare to dla uzyskującego je pracownika szansa na podniesienie swojego statusu jako wykwalifikowanego pracownika z jednoczesnym przełożeniem na zarobki.
 
 ## Certyfikacja regionami świata
 ### USA
